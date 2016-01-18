@@ -19,7 +19,7 @@ what ??? say more words ...
 
 http://www.cnblogs.com/nbpowerboy/archive/2013/05/19/3086579.html
 
-http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列表
+http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/è‡ªå®šä¹‰åˆ—è¡¨
 
 http://www.javalinux.me/archives/644
 
@@ -28,6 +28,8 @@ http://www.javalinux.me/archives/644
  very good
  
  
- pls take a look at if you can access this url:  http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列�
+ pls take a look at if you can access this url:  http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/è‡ªå®šä¹‰åˆ—è¡
  
- are you busy  today ?�
+ are you busy  today ?¨
+ 
+ no
