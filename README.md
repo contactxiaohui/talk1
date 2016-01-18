@@ -22,3 +22,6 @@ http://www.cnblogs.com/nbpowerboy/archive/2013/05/19/3086579.html
 http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列表
 
 http://www.javalinux.me/archives/644
+
+ hi shushu
+ pls take a look at if you can access this url:  http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列表
