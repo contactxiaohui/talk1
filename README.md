@@ -18,3 +18,5 @@ shushu
 what ??? say more words ...   this way talking  ,i think long time , do you konw , it doesnot easy!
 
 http://www.cnblogs.com/nbpowerboy/archive/2013/05/19/3086579.html
+
+portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列表
