@@ -28,4 +28,6 @@ http://www.javalinux.me/archives/644
  very good
  
  
- pls take a look at if you can access this url:  http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列表
+ pls take a look at if you can access this url:  http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/自定义列�
+ 
+ are you busy  today ?�
