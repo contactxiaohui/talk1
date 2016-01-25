@@ -39,7 +39,7 @@ http://www.javalinux.me/archives/644
  https://www.khanacademy.org/
  
  
- http://elearning.pactera.com/
+ 
  
  Compulsory Pactera员工常用系统工具
  
@@ -48,5 +48,11 @@ http://www.javalinux.me/archives/644
 
 
 
-#shushu
-#shushu
+#2016/1/25
+http://elearning.pactera.com/
+☆ Course 1
+Course Name: Anti-Corruption Policy Training
+Couse No.: ACPT_eSignature_EN
+☆ Course 2
+Course Name: Code of Business Conduct Training (English)
+Course No.: CBCT_eSignature-EN
