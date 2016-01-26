@@ -1,5 +1,4 @@
 
-Get it
 the problems is:
 https://help.github.com/articles/generating-ssh-keys/
 
@@ -10,10 +9,6 @@ http://portal.contoso.uat/sites/cockpit/_vti_bin/listdata.svc/è‡ªå®šä¹�
 
 http://www.javalinux.me/archives/644
 
- hi shushu
- 
- very good
- 
  
  https://www.khanacademy.org/
  
